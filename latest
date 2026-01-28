@@ -1,5 +1,7 @@
 {
+  "app_name": "ACFL & AFL PC Checker",
   "version": "1.0.1",
-  "exe_url": "https://github.com/YOURORG/acfl-afl-pc-checker/raw/main/ACFL_AFL_PC_Checker.exe",
-  "notes": "Improved activity detection and stability"
+  "release_date": "2026-01-27",
+  "exe_url": "https://raw.githubusercontent.com/YOURORG/acfl-afl-pc-checker/main/releases/ACFL_AFL_PC_Checker.exe",
+  "notes": "Full GUI release. Added auto-updating EXE, activity timeline, session duration, bootstrapper detection, USB history, and Roblox exploit scanning."
 }
