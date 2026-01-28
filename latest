@@ -1,0 +1,5 @@
+{
+  "version": "1.0.1",
+  "exe_url": "https://github.com/YOURORG/acfl-afl-pc-checker/raw/main/ACFL_AFL_PC_Checker.exe",
+  "notes": "Improved activity detection and stability"
+}
