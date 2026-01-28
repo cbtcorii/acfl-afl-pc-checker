@@ -1,0 +1,23 @@
+ACFL & AFL PC Checker
+Official Changelog - LowkeyCorii
+
+────────────────────────────
+v1.0.1 — January 27, 2026
+────────────────────────────
+• Added full blue & white GUI
+• Added GUI-based auto updater
+• Activity Searcher with session duration
+• Roblox log exploit detection
+• Prefetch execution timeline
+• Bootstrapper detection (Fishstrap, Froststrap, Voidstrap)
+• USB device history scanner
+• Discord webhook logging
+• Stability and performance improvements
+
+────────────────────────────
+v1.0.0 — Initial Release
+────────────────────────────
+• Roblox log analysis
+• Process activity detection
+• Prefetch activity detection
+• Manual console-based interface
